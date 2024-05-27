@@ -1,4 +1,4 @@
-vlc-android-sdk
+## vlc-android-sdk
 ===============
 
 Unofficial VLC Android SDK pushed to JCenter.
@@ -14,9 +14,11 @@ Get it via JCenter
 ------------------------
 Just add this dependency to your project and you're good to go.
 
+```gradle
 <pre>repositories {
     jcenter()
 }
 dependencies {
     compile 'de.mrmaffen:libvlc-android:2.1.12@aar'
 }</pre>
+```
